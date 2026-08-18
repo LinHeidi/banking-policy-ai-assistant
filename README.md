@@ -1,4 +1,3 @@
-# banking-policy-ai-assistant
 
 # Banking Policy AI Assistant
 
